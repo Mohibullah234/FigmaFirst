@@ -1,0 +1,160 @@
+.logo {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 48%;
+    letter-spacing: 0.02em;
+    color: #0A1B32; 
+    margin-top: 37px;
+    margin-left: 80px;
+    display: flex; }
+
+.logodot {
+    color: #4F56F1;
+}
+
+.home {
+    font-family: "Roboto", sans-serif;
+    color: #1B0A42;
+    font-style: normal;
+    font-weight:400;
+    line-height: 24%;
+    font-size: 16px;
+    letter-spacing: 2%;
+    margin-top: 42px;
+    margin-left: 97.5px;
+    display: flex;
+   
+}
+.about{
+    color: #1B0A42;
+    font-style: normal;
+    font-weight:400;
+    line-height: 24%;
+    font-size: 16px;
+    margin-top: 42px;
+    margin-left: 38px;
+    display: flex;
+}
+   
+.blog
+{
+    color: #1B0A42;
+    font-style: normal;
+    font-weight:400;
+    line-height: 24%;
+    font-size: 16px;
+    letter-spacing: 2%;
+    margin-top: 42px;
+    margin-left: 40px;
+    display: flex;
+}
+.contact
+{
+    color: #1B0A42;
+    font-style: normal;
+    font-weight:400;
+    line-height: 24%;
+    font-size: 16px;
+    margin-top: 42px;
+    margin-left: 40px;
+    margin-right: 752.2px;
+    display: flex;
+}
+
+
+.nav-links {   
+    justify-content:start;
+    align-items: flex-start;
+    display: flex;
+}
+.header
+{
+    justify-content:space-between;
+    display: flex;
+}
+.Signin
+{
+    color: #1B0A42;
+    font-style: normal;
+    font-weight:400;
+    line-height: 24%;
+    font-size: 16px;
+    margin-top: 42px;
+    margin-left: 752.2px;
+    margin-right: 17.65px;
+    display: flex;    
+}
+.Signup 
+{
+    width: 120px;
+    height: 59.65px;
+    margin-top: 15px;
+    margin-left: 40.3px;
+    background-color:#4F56F1;
+    border-radius: 6px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 200%;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.maintext 
+{
+    max-width: 495px;
+    width: 100%;
+    margin-top: 203px;
+    margin-left: 200px;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+.mainparagraph 
+{
+    max-width: 583px;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+}
+.learnmore
+{   
+    width: 152px;
+    height: 63.82px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius: 6px;
+    background-color: #4F56F1;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 200%;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+section
+{
+   display: inline-block;
+}
